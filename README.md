@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/yoseph-c-kassa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yoseph-c-kassa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yoseph-kassa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoseph-kassa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yoseph-kassa-1739352a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoseph-kassa" height="30" width="40" /></a>
 <a href="https://codesandbox.com/yoseph-c-kassa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="yoseph-c-kassa" height="30" width="40" /></a>
 <a href="https://fb.com/yoseph kassa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yoseph kassa" height="30" width="40" /></a>
 <a href="https://instagram.com/jo_web_devo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jo_web_devo" height="30" width="40" /></a>
