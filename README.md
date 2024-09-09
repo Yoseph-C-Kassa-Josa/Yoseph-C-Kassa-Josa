@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **yosephcha446@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/u/0/d/1EC9pUMZajEeblrqIDzWYgXzA7wV796M7/view?usp=sharing&pli=1](https://drive.google.com/file/u/0/d/1EC9pUMZajEeblrqIDzWYgXzA7wV796M7/view?usp=sharing&pli=1)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zkcjX0HDmT8L87KNzoUZoVCHSU8G-dIi/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/yoseph-c-kassa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yoseph-c-kassa" height="30" width="40" /></a>
