@@ -7,13 +7,14 @@
 
 - 🔭 I’m currently working on **MarImigra**
 
-- 👯 I’m looking to collaborate on **DESP**
+- 👯 I’m looking to collaborate on **any website and mobile app projects**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://yosephchalieportfolio.netlify.app/)
 
 - 💬 Ask me about **react, vue and python**
 
-- 📫 How to reach me **yosephcha446@gmail.com**
+- ✉️ Emial **yosephcha446@gmail.com**
+- 📱Phone  **+251932790411**
 
 - 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1PLmDqjy6vddXiS1oPMhqAKSspSVx1iZZ/view?usp=drive_link" style="display:none;">see my resume</a>
 <h3 align="left">Connect with me:</h3>
