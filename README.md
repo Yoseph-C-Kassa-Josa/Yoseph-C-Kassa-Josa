@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **DESP**
 
-- 👨‍💻 All of my projects are available at [https://yosephchalieportfolio.netlify.app/](https://yosephchalieportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yosephchalieportfolio.netlify.app/)
 
 - 💬 Ask me about **react, vue and python**
 
