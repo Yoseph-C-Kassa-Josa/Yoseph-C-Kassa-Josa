@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoseph-c-kassa-josa&" alt="yoseph-c-kassa-josa" /></p>
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yoseph-C-Kassa-Josa&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![Click for Details](https://github-contributor-stats.vercel.app/api?username=Yoseph-C-Kassa-Josa&limit=5&theme=flat&combine_all_yearly_contributions=true)
