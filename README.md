@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yoseph C Kassa</h1>
 <div align="center"> <img src="https://avatars.githubusercontent.com/u/133152008?v=4" alt="" size="200" height="200" width="200" data-view-component="true" class="avatar circle"></div>
-<h3 align="center">A passionate Full Stack and Mobile App developer</h3>
+<h3 align="center">A passionate Web and Mobile App developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoseph-c-kassa-josa&label=Profile%20views&color=0e75b6&style=flat" alt="yoseph-c-kassa-josa" /> </p>
