@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any website and mobile app projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yosephchalieportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yoseph-kassa.netlify.app/)
 
 - 💬 Ask me about **react, vue and python**
 
