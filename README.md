@@ -1,68 +1,82 @@
 <h1 align="center">Hi 👋, I'm Yoseph C Kassa</h1>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/133152008?v=4" alt="Yoseph C Kassa" width="200" height="200" class="avatar circle">
-</div>
-<h3 align="center">🚀 Web & Mobile App Developer | Passionate About Tech & Innovation</h3>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/133152008?v=4" alt="" width="150" height="150" style="border-radius: 50%;">
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Web+%26+Mobile+App+Developer;Passionate+about+Coding;React+%7C+Vue+%7C+Python+Enthusiast" alt="Typing SVG" />
+</h3>
 
-<p align="left">
+---
+
+<p align="center">
+  <a href="https://yoseph-kassa.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-blue?style=for-the-badge" alt="Portfolio Badge">
+  </a>
+  <a href="mailto:yosephcha446@gmail.com">
+    <img src="https://img.shields.io/badge/📩 Email Me-red?style=for-the-badge" alt="Email Badge">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=yoseph-c-kassa-josa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on **MarImigra**  
-- 👯 Open to collaborations on **web & mobile app projects**  
-- 👨‍💻 Check out my work: [**My Portfolio**](https://yoseph-kassa.netlify.app/)  
-- 💬 Ask me about **React, Vue, and Python**  
-- ✉️ Reach me at **yosephcha446@gmail.com**  
-- 📱 Call me: **+251 932 790 411**  
-- 📄 [View My Resume](https://drive.google.com/file/d/1PLmDqjy6vddXiS1oPMhqAKSspSVx1iZZ/view?usp=drive_link)  
+---
+
+## 🚀 **About Me**
+- 🔭 I’m currently working on **MarImigra**
+- 👯 I’m looking to collaborate on **Web & Mobile App Projects**
+- 👨‍💻 My work: [Portfolio](https://yoseph-kassa.netlify.app/)
+- 💬 Ask me about **React, Vue, and Python**
+- 📩 Reach me at: **yosephcha446@gmail.com**
+- 📱 Call me: **+251932790411**
+- 📄 [See My Resume](https://drive.google.com/file/d/1PLmDqjy6vddXiS1oPMhqAKSspSVx1iZZ/view?usp=drive_link)
 
 ---
 
-## 🌐 Connect With Me:
+## 🔗 **Connect With Me**
 <p align="left">
-  <a href="https://codepen.io/yoseph-c-kassa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/yoseph-kassa-1739352a7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/yoseph-c-kassa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" /></a>
-  <a href="https://fb.com/yoseph.kassa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/jo_web_devo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yoseph-kassa-1739352a7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://codepen.io/yoseph-c-kassa" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen" alt="CodePen">
+  </a>
+  <a href="https://instagram.com/jo_web_devo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
 </p>
 
 ---
 
-## 🚀 Languages & Tools:
+## 🛠 **Languages & Tools**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,python,java,mysql,mongodb,flutter,docker,aws,figma,git,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 **GitHub Stats & Activity**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoseph-c-kassa-josa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoseph-c-kassa-josa&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoseph-c-kassa-josa&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoseph-c-kassa-josa&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
-🔝 **Top Contributed Repos:**  
-➡️ [GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Yoseph-C-Kassa-Josa&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoseph-c-kassa-josa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoseph-c-kassa-josa&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-### 🎯 Fun Fact:
-💡 "The best way to predict the future is to create it."  
-Let's build something amazing together! 🚀
+## 📌 **GitHub Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoseph-c-kassa-josa&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+---
+
+### ⭐ **If you like my work, consider giving a star!**
