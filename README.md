@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-```js
+
 const yoseph = {
   name: "Yoseph C Kassa",
   title: "Full-Stack Engineer",
