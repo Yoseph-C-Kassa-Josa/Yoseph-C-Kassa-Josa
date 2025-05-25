@@ -1,5 +1,5 @@
-# <div align="center">🔥 Yoseph C Kassa 🔥</div>
-### <div align="center">**Full-Stack Developer | Tech Innovator | Digital Craftsman**</div>
+# <div align="center">🚀 Yoseph C Kassa</div>
+### <div align="center">Full-Stack Developer | Tech Innovator | Digital Craftsman</div>
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/133152008?v=4" alt="Yoseph C Kassa" width="250" style="border-radius: 50%; border: 3px solid #0ef; box-shadow: 0 0 25px #0ef;">
@@ -12,46 +12,48 @@
 
 ---
 
-## 🚀 **About Me**
+## 🚀 About Me
 
+javascript
 const yoseph = {
   pronouns: "He" | "Him",
   code: ["JavaScript", "Python", "Dart"],
   frameworks: ["React", "Vue", "Flutter", "Node.js"],
   architecture: ["Microservices", "Serverless", "Progressive Web Apps"],
-  challenge: "Building an AI-powered education platform",
-  funFact: "Can debug code while playing guitar solos"
+  currentFocus: "Building MarImigra platform",
+  contact: "yosephcha446@gmail.com | +251 932 790 411"
 };
 🛠 Tech Stack
-Frontend
+Frontend Development
 React
 Vue.js
 JavaScript
 TailwindCSS
 
-Backend
+Backend Development
 Node.js
 Python
 Firebase
 
-Mobile
+Mobile Development
 Flutter
 React Native
 
-DevOps & Cloud
+DevOps & Tools
 Docker
 Linux
+Git
 
 📊 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoseph-c-kassa-josa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoseph-c-kassa-josa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoseph-c-kassa-josa&theme=radical&hide_border=true&background=0D1117"/></div>
 🌟 Featured Projects
-Project	Description	Tech Stack
-MarImigra	Next-gen migration services platform	React, Node.js, Firebase
-Portfolio	Interactive developer showcase	Vue.js, TailwindCSS
-AI Chatbot	Python-powered conversational AI	Python, NLP
+Project	Description	Tech Stack	Link
+MarImigra	Migration services platform	React, Node.js, Firebase	Live Demo
+Portfolio	Developer showcase	Vue.js, TailwindCSS	View
+AI Chatbot	Conversational AI	Python, NLP	GitHub
 📫 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/yoseph-kassa-1739352a7" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://fb.com/yoseph.kassa" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://instagram.com/jo_web_devo" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="mailto:yosephcha446@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://yoseph-kassa.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/> </a> </p>
-💡 Developer Wisdom
+<p align="center"> <a href="https://linkedin.com/in/yoseph-kassa-1739352a7" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/yoseph-c-kassa-josa" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:yosephcha446@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="tel:+251932790411"> <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/> </a> </p>
+💡 Developer Quotes
 "First, solve the problem. Then, write the code."
 "The most powerful tool we have as developers is automation."
 "Good code is its own best documentation."
@@ -60,8 +62,8 @@ AI Chatbot	Python-powered conversational AI	Python, NLP
 Visitor Count
 
 "Commit often, perfect later, publish once."
-Let's build the future together! �
+Let's build the future together! 🚀
 
-Matrix Code
+Typing SVG
 
 </div> 
