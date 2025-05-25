@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-```js
+
 const yoseph = {
   name: "Yoseph C Kassa",
   title: "Full-Stack Engineer",
@@ -23,7 +23,7 @@ const yoseph = {
   passion: "Creating human-centered, scalable software for real-world impact",
   openTo: ["Collaboration", "Freelance", "Mentorship"],
 };
-```
+
 
 💼 **Portfolio:** [yoseph-kassa.netlify.app](https://yoseph-kassa.netlify.app)
 
