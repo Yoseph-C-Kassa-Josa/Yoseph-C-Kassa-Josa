@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **MarImigra**  
 - 👯 Open to collaborations on **web & mobile app projects**  
-- 👨‍💻 Check out my work: [**My Portfolio**](https://yoseph-kassa.netlify.app/)  
+- 👨‍💻 Check out my work: [**My Portfolio**](https://josaka.netlify.app//)  
 - 💬 Ask me about **React, Vue, and Python**  
 - ✉️ Reach me at **yosephcha446@gmail.com**  
 - 📱 Call me: **+251 932 790 411**  
