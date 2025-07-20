@@ -16,7 +16,7 @@
 - 💬 Ask me about **React, Vue, and Python**  
 - ✉️ Reach me at **yosephcha446@gmail.com**  
 - 📱 Call me: **+251 932 790 411**  
-- [View My Resume](https://drive.google.com/file/d/12xZ9zCCILHy_n0eAU6k88WUmTrSFWoFp/view?usp=drive_link)
+- [View My Resume](https://drive.google.com/file/d/1ocO2jQ5TBM-qvlnCgTFtxSCTqn0Yo0ST/view?usp=drive_link)
 
 
 ---
