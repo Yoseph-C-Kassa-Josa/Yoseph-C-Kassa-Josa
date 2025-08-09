@@ -10,10 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=yoseph-c-kassa-josa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on **MarImigra**  
 - 👯 Open to collaborations on **web & mobile app projects**  
 - 👨‍💻 Check out my work: [**My Portfolio**](https://josaka.netlify.app//)  
-- 💬 Ask me about **React, Vue, and Python**  
+- 💬 Ask me about **React, Next.js, flutter, Node.js and Python**  
 - ✉️ Reach me at **yosephcha446@gmail.com**  
 - 📱 Call me: **+251 932 790 411**  
 - [View My Resume](https://drive.google.com/file/d/1ocO2jQ5TBM-qvlnCgTFtxSCTqn0Yo0ST/view?usp=drive_link)
