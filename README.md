@@ -11,12 +11,8 @@
 </p>
 
 - 👯 Open to collaborations on **web & mobile app projects**  
-- 👨‍💻 Check out my work: [**My Portfolio**](https://josaka.netlify.app//)  
 - 💬 Ask me about **React, Next.js, flutter, Node.js and Python**  
 - ✉️ Reach me at **yosephcha446@gmail.com**  
-- 📱 Call me: **+251 932 790 411**  
-- [View My Resume](https://drive.google.com/file/d/1ocO2jQ5TBM-qvlnCgTFtxSCTqn0Yo0ST/view?usp=drive_link)
-
 
 ---
 
