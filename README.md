@@ -37,21 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoseph-c-kassa-josa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoseph-c-kassa-josa&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoseph-c-kassa-josa&theme=radical" alt="GitHub Streak" />
-</p>
 
-🔝 **Top Contributed Repos:**  
-➡️ [GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Yoseph-C-Kassa-Josa&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
 
 ### 🎯 Fun Fact:
 💡 "The best way to predict the future is to create it."  
