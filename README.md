@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yoseph C Kassa</h1>
 <div align="center">
-  //<img src="https://avatars.githubusercontent.com/u/133152008?v=4" alt="Yoseph C Kassa" width="200" height="200" class="avatar circle">
+ 
 </div>
 <h3 align="center">🚀 Web & Mobile App Developer | Passionate About Tech & Innovation</h3>
 
