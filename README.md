@@ -6,9 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yoseph-c-kassa-josa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 - 👯 Open to collaborations on **web & mobile app projects**  
 - 💬 Ask me about **React, Next.js, flutter, Node.js and Python**  
